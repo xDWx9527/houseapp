@@ -1,0 +1,27 @@
+.citylist-box{
+    background-color: #fff;
+    height: 100%;
+    
+    h3{
+        margin-top: 0;
+    }
+
+    #citylist-left-box{
+        position: fixed;
+        left: 0;
+        height: 100%;
+        width: 90%;
+        // background-color: salmon;
+    }
+
+
+
+    .right-box{
+        position: fixed;
+        top: 20%;
+        right: 0;
+        width: 18px;
+        background-color: #CCC;
+        text-align: center;
+    }
+}

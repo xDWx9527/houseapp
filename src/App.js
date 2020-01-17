@@ -9,6 +9,7 @@ import Citylist from './pages/citylist/Citylist'
 import HouseMap from './pages/map/Map'
 import Search from './pages/search/Search'
 
+
 //配置路由
 // 大项目开发思路，绝对不是一次性就能配好，先把一级路由切换配置完毕，搞清大页面的跳转关系
 // 二级或更小的路由，写到具体页面时，再去具体配置，这样能极大提升开发效率

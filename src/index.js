@@ -6,4 +6,5 @@ import App from './App'
 import 'antd-mobile/dist/antd-mobile.css'
 import './assets/styles/index.scss'
 
+
 ReactDOM.render(<App/>, document.getElementById('root'))
